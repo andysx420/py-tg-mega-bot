@@ -1,0 +1,13 @@
+pyrogram
+Tgcrypto
+filesplit
+filetype
+python-dotenv
+aiofiles
+aiohttp[speedups]
+pymongo
+dnspython
+cryptography
+pycryptodome
+psutil
+humans-formatter
